@@ -7,7 +7,7 @@
         <div id="top"></div>
         <div id="bottom"></div>
         <b-navbar-item id="fontnavbar" class="title is-2" style="color: deeppink">
-          Milligram
+          Jessigram
         </b-navbar-item>
       </template>
     </b-navbar>
